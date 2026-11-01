@@ -1,0 +1,34 @@
+__AUTOPAY
+|
+|__logo.png
+|__background.jpg
+|
+|_STARTUP:
+|  |_db.php
+|  |_home.php
+|
+|_ADMIN:
+|  |_db.php
+|  |_logo.png
+|  |_background.jpg
+|  |_admin_login.php
+|  |_admin_reg.php
+|  |_admins_view.php
+|  |_admin_acc.php
+|  |_admin_emp_acc.php
+|  |_admin_emp_pay.php
+|  |_admin_emp_history.php
+|
+|_EMPLOYEES:
+   |_db.php
+   |_logo.png
+   |_background.jpg
+   |_employees_login.php
+   |_employees_reg.php
+   |_employees_view.php
+   |_attendance.php
+   |_payroll.php
+   |_history.php
+   |_generate_receipt.php
+
+

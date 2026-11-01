@@ -1,0 +1,18 @@
+ADMIN ACC:
+FULLNAME:admin
+PASSWORD:admin
+
+EMPLOYEES ACC:
+emp1:
+FULLNAME: Prince Doble
+PASSWORD: doble
+
+emp2:
+FULLNAME: Eduard Mendoza
+PASSWORD: mendoza
+
+emp3:
+FULLNAME: Ivan jay R. Elago
+PASSWORD: elago
+
+
